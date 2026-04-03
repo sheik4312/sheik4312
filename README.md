@@ -92,8 +92,3 @@ Dedicated programmer with a B.Tech in Information Technology. Proficient in Java
 
 ---
 
-## GitHub Statistics:
-
-- **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sheik4312&show_icons=true&locale=en&layout=compact)
-- **GitHub Stats:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheik4312&show_icons=true&locale=en)
-- **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheik4312)
